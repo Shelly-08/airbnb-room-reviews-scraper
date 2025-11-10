@@ -1,0 +1,11 @@
+{
+  "roomUrls": [
+    "https://www.airbnb.com/rooms/51973359/reviews",
+    "https://www.airbnb.com/rooms/12345678/reviews"
+  ],
+  "maxItems": 50,
+  "output": {
+    "format": "json",
+    "path": "data/sample_output.json"
+  }
+}
