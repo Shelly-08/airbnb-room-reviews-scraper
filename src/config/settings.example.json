@@ -1,0 +1,9 @@
+{
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AirbnbRoomReviewsScraper/1.0",
+  "timeout": 20,
+  "verify_ssl": true,
+  "proxies": null,
+  "output_format": "json",
+  "max_reviews_per_room": 200,
+  "concurrent_requests": 3
+}
