@@ -1,0 +1,28 @@
+[
+  {
+    "roomUrl": "https://www.airbnb.com/rooms/51973359/reviews?category_tag=Tag%3A4104&search_mode=flex_destinations_search&adults=1&check_in=2026-02-01&check_out=2026-02-06",
+    "reviewId": "1343490926279918288",
+    "rating": 5,
+    "comment": "Een mooi gelegen en comfortabele kamer in het prachtige Hollandse dorpje Weesp! Amsterdam makkelijk te bereiken met trein.",
+    "language": "nl",
+    "createdAt": "2025-01-27T15:56:38Z",
+    "localizedDate": "January 2025",
+    "reviewer": {
+      "id": "43085573",
+      "firstName": "Man",
+      "profilePath": "/users/show/43085573",
+      "pictureUrl": "https://a0.muscache.com/im/users/43085573/profile_pic/1441119590/original.jpg",
+      "isSuperhost": false,
+      "location": "10 years on Airbnb"
+    },
+    "host": {
+      "id": "41227715",
+      "firstName": "Marina",
+      "profilePath": "/users/show/41227715",
+      "pictureUrl": "https://a0.muscache.com/im/pictures/user/63fe0b69-e19b-417f-a0c0-f1e551e52ea9.jpg",
+      "isSuperhost": false
+    },
+    "response": null,
+    "reviewPhotos": []
+  }
+]
